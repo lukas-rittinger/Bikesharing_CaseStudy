@@ -660,16 +660,13 @@ As identified in the problem statement, the final marketing recommendations shou
 
 After concluding the analysis I came up with the following three recommendations:
 
-**1. Notify users about the price benefit of annual memberships**
-<br>
+**1. Notify users about the price benefit of annual memberships** <br>
 A closer look at the pricing model reveals that a user already saves money if he/she uses the service on average 3 times a month. From the registration process the company should be in possession of each users address information, email and even phone number. They should use this asset to notify customers via emails, app notifications or other (digital) ways and highlight the longterm pricing advantages from investing into an annual membership rather than buying single ride tickets.
 
-**2. Consider alternative membership options and pricing models**
-<br>
+**2. Consider alternative membership options and pricing models** <br>
 Another very interesting takeaway from this case study is how differently the service is being used during the year. Casual riders clearly peak in the summer months but avoid the service during colder seasons. As we've seen above, Cyclistic only provides an annual membership option. Since some casual riders probably know that they won't use the service during winter months, a more flexible membership option with a time span of for example 3 to 6 months could help to tie these customers to the company in the long run. In addition, one could think about different pricing models for different seasons. Overall we've discovered quite a big gap in demand comparing winter and summer usage. Therefore, I propose to discount memberships in colder months to make them more attractive.
 
-**3. Highlight benefits of cycling in times of Covid-19**
-<br>
+**3. Highlight benefits of cycling in times of Covid-19** <br>
 Last but not least, Cyclistic could also focus their marketing campaign on potential health benefits of exercising regularly outdoors in the fresh air. Especially in times of Covid-19 they should highlight the advantages of outdoor cycling compared to usually poorly ventilated means of transport like cars or public buses. For their efforts they should target stations which are frequently used by casual riders. In section 4.2 I revealed which stations are most suitable for this. These included *Streeter Dr & Grand Ave*, *Millennium Park* and *Michigan Ave & Oak St*, just to name the three most popular ones.
 
 <br>
